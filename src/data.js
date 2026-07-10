@@ -395,10 +395,6 @@ export const categories = [
         ]
       },
       {
-        "title": "Reverse a String",
-        "links": []
-      },
-      {
         "title": "Next Greater Element (easy)",
         "links": [
           "https://leetcode.com/problems/next-greater-element-ii/description/"
@@ -1101,10 +1097,6 @@ export const categories = [
         ]
       },
       {
-        "title": "DP (Dynamic Programming)",
-        "links": []
-      },
-      {
         "title": "Fibonacci",
         "links": [
           "https://leetcode.com/problems/fibonacci-number/description/"
@@ -1129,10 +1121,6 @@ export const categories = [
         ]
       },
       {
-        "title": "tabulation Intro",
-        "links": []
-      },
-      {
         "title": "0/1 Knapsack Tabulation",
         "links": [
           "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
@@ -1155,10 +1143,6 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/longest-increasing-subsequence/"
         ]
-      },
-      {
-        "title": "LIS Tabulation",
-        "links": []
       },
       {
         "title": "LCS",
@@ -1201,10 +1185,6 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
         ]
-      },
-      {
-        "title": "Revision",
-        "links": []
       }
     ]
   }
