@@ -73,8 +73,7 @@ export const categories = [
       {
         "title": "Minimum Window Sort (medium)",
         "links": [
-          "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
-          "https://www.ideserve.co.in/learn/minimum-length-subarray-sorting-which-results-in-sorted-array"
+          "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/"
         ]
       }
     ]
@@ -332,9 +331,7 @@ export const categories = [
       },
       {
         "title": "Employee Free Time (hard)",
-        "links": [
-          "https://www.codertrain.co/employee-free-time"
-        ]
+        "links": []
       }
     ]
   },
@@ -717,36 +714,31 @@ export const categories = [
       {
         "title": "Fibonnaci",
         "links": [
-          "https://leetcode.com/problems/fibonacci-number/description/",
-          "https://www.youtube.com/watch?v=j4wjZqzhMqc&t"
+          "https://leetcode.com/problems/fibonacci-number/description/"
         ]
       },
       {
         "title": "Check if string is Pallindrome",
         "links": [
-          "https://www.geeksforgeeks.org/problems/palindrome-string0817/1",
-          "https://www.youtube.com/watch?v=j4wjZqzhMqc&t"
+          "https://www.geeksforgeeks.org/problems/palindrome-string0817/1"
         ]
       },
       {
         "title": "Check if Array is Sorted",
         "links": [
-          "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
-          "https://www.youtube.com/watch?v=-gC-QEdpvO4"
+          "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1"
         ]
       },
       {
         "title": "Sum of digits of a number",
         "links": [
-          "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1",
-          "https://www.youtube.com/watch?v=-gC-QEdpvO4"
+          "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1"
         ]
       },
       {
         "title": "Remove occurences of a character in string",
         "links": [
-          "https://www.geeksforgeeks.org/problems/remove-all-occurrences-of-a-character-in-a-string/1",
-          "https://www.youtube.com/watch?v=-gC-QEdpvO4"
+          "https://www.geeksforgeeks.org/problems/remove-all-occurrences-of-a-character-in-a-string/1"
         ]
       },
       {
@@ -758,8 +750,7 @@ export const categories = [
       {
         "title": "Letter Combinations of phone number",
         "links": [
-          "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/",
-          "https://www.youtube.com/watch?v=IKfIT6uFOcs"
+          "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/"
         ]
       },
       {
