@@ -3,7 +3,6 @@ import { categories } from './data.js';
 import './index.css';
 
 function App() {
-  // Load initial state from local storage or default to empty
   const [stars, setStars] = useState(() => {
     const saved = localStorage.getItem('dsa-stars');
     return saved ? JSON.parse(saved) : {};
@@ -14,7 +13,11 @@ function App() {
     return saved ? JSON.parse(saved) : {};
   });
 
-  // Save to local storage whenever state changes
+  const [done, setDone] = useState(() => {
+    const saved = localStorage.getItem('dsa-done');
+    return saved ? JSON.parse(saved) : {};
+  });
+
   useEffect(() => {
     localStorage.setItem('dsa-stars', JSON.stringify(stars));
   }, [stars]);
@@ -23,18 +26,20 @@ function App() {
     localStorage.setItem('dsa-notes', JSON.stringify(notes));
   }, [notes]);
 
+  useEffect(() => {
+    localStorage.setItem('dsa-done', JSON.stringify(done));
+  }, [done]);
+
   const toggleStar = (title) => {
-    setStars(prev => ({
-      ...prev,
-      [title]: !prev[title]
-    }));
+    setStars(prev => ({ ...prev, [title]: !prev[title] }));
+  };
+
+  const toggleDone = (title) => {
+    setDone(prev => ({ ...prev, [title]: !prev[title] }));
   };
 
   const updateNote = (title, text) => {
-    setNotes(prev => ({
-      ...prev,
-      [title]: text
-    }));
+    setNotes(prev => ({ ...prev, [title]: text }));
   };
 
   return (
@@ -44,8 +49,9 @@ function App() {
         <table className="sheet-table">
           <thead>
             <tr>
-              <th style={{ width: '5%' }}>Star</th>
-              <th style={{ width: '40%' }}>Question</th>
+              <th style={{ width: '5%', textAlign: 'center' }}>Done</th>
+              <th style={{ width: '5%', textAlign: 'center' }}>Star</th>
+              <th style={{ width: '35%' }}>Question</th>
               <th style={{ width: '25%' }}>Links</th>
               <th style={{ width: '30%' }}>Notes</th>
             </tr>
@@ -53,16 +59,22 @@ function App() {
           <tbody>
             {categories.map((category, catIndex) => (
               <React.Fragment key={catIndex}>
-                {/* Category Header Row */}
                 <tr className="category-row">
-                  <td colSpan={4} className="category-title">
+                  <td colSpan={5} className="category-title">
                     {category.name}
                   </td>
                 </tr>
-                
-                {/* Question Rows */}
                 {category.questions.map((q, qIndex) => (
-                  <tr key={qIndex} className="question-row">
+                  <tr key={qIndex} className={`question-row ${done[q.title] ? 'is-done' : ''}`}>
+                    <td style={{ textAlign: 'center' }}>
+                      <button 
+                        className={`done-btn ${done[q.title] ? 'done-active' : ''}`}
+                        onClick={() => toggleDone(q.title)}
+                        title="Mark as Done"
+                      >
+                        {done[q.title] ? '✅' : '⬜'}
+                      </button>
+                    </td>
                     <td style={{ textAlign: 'center' }}>
                       <button 
                         className={`star-btn ${stars[q.title] ? 'starred' : ''}`}
@@ -72,7 +84,9 @@ function App() {
                         {stars[q.title] ? '★' : '☆'}
                       </button>
                     </td>
-                    <td className="question-title">{q.title}</td>
+                    <td className="question-title">
+                      <span className={done[q.title] ? 'strike-through' : ''}>{q.title}</span>
+                    </td>
                     <td className="question-links">
                       {q.links.map((link, i) => (
                         <a key={i} href={link} target="_blank" rel="noreferrer">
