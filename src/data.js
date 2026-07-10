@@ -79,7 +79,7 @@ export const categories = [
     ]
   },
   {
-    "name": "2. Pattern: Fast & Slow pointers",
+    "name": "2. Pattern: Fast & Slow Pointers",
     "questions": [
       {
         "title": "LinkedList Cycle (easy)",
@@ -209,7 +209,7 @@ export const categories = [
     ]
   },
   {
-    "name": "Pattern: Kadane pattern",
+    "name": "4. Pattern: Kadane",
     "questions": [
       {
         "title": "Maximum subarray sum",
@@ -250,7 +250,7 @@ export const categories = [
     ]
   },
   {
-    "name": "PATTERN: PREFIX SUM",
+    "name": "5. Pattern: Prefix Sum",
     "questions": [
       {
         "title": "Subarray Sum Equals K (EASY)",
@@ -291,7 +291,7 @@ export const categories = [
     ]
   },
   {
-    "name": "4. Pattern: Merge Intervals",
+    "name": "6. Pattern: Merge Intervals",
     "questions": [
       {
         "title": "Merge Intervals (medium)",
@@ -336,7 +336,7 @@ export const categories = [
     ]
   },
   {
-    "name": "6. Pattern: In-place Reversal of a LinkedList",
+    "name": "7. Pattern: In-place Reversal of a LinkedList",
     "questions": [
       {
         "title": "Reverse a LinkedList (easy)",
@@ -377,7 +377,7 @@ export const categories = [
     ]
   },
   {
-    "name": "7. Pattern: Stack",
+    "name": "8. Pattern: Stack",
     "questions": [
       {
         "title": "remove adjacent duplicates",
@@ -459,7 +459,7 @@ export const categories = [
     ]
   },
   {
-    "name": "10. Pattern : Binary Search",
+    "name": "10. Pattern: Binary Search",
     "questions": [
       {
         "title": "Binary search basic",
@@ -602,7 +602,7 @@ export const categories = [
     ]
   },
   {
-    "name": "HEAP PATTERN",
+    "name": "11. Pattern: Heaps",
     "questions": [
       {
         "title": "Kth - kth smallest",
@@ -709,7 +709,7 @@ export const categories = [
     ]
   },
   {
-    "name": "Recursion and Backtracking Pattern",
+    "name": "12. Pattern: Recursion and Backtracking",
     "questions": [
       {
         "title": "Fibonnaci",
@@ -774,7 +774,7 @@ export const categories = [
     ]
   },
   {
-    "name": "Tree Pattern",
+    "name": "13. Pattern: Trees",
     "questions": [
       {
         "title": "Traversal - Inorder",
@@ -965,7 +965,7 @@ export const categories = [
     ]
   },
   {
-    "name": "GRAPHS",
+    "name": "14. Pattern: Graphs",
     "questions": [
       {
         "title": "Construct Adjancency List from EDGES+Nodes",
@@ -1086,7 +1086,12 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/word-ladder/"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "15. Pattern: Dynamic Programming",
+    "questions": [
       {
         "title": "Fibonacci",
         "links": [
