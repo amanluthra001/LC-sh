@@ -59,19 +59,19 @@ export const categories = [
         ]
       },
       {
-        "title": "Problem Challenge 1: Quadruple Sum to Target (medium)",
+        "title": "Quadruple Sum to Target (medium)",
         "links": [
           "https://leetcode.com/problems/4sum/"
         ]
       },
       {
-        "title": "Problem Challenge 2: Comparing Strings containing Backspaces (medium)",
+        "title": "Comparing Strings containing Backspaces (medium)",
         "links": [
           "https://leetcode.com/problems/backspace-string-compare/"
         ]
       },
       {
-        "title": "Problem Challenge 3: Minimum Window Sort (medium)",
+        "title": "Minimum Window Sort (medium)",
         "links": [
           "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
           "https://www.ideserve.co.in/learn/minimum-length-subarray-sorting-which-results-in-sorted-array"
@@ -113,19 +113,19 @@ export const categories = [
         ]
       },
       {
-        "title": "Problem Challenge 1: Palindrome LinkedList (medium)",
+        "title": "Palindrome LinkedList (medium)",
         "links": [
           "https://leetcode.com/problems/palindrome-linked-list/"
         ]
       },
       {
-        "title": "Problem Challenge 2: Rearrange a LinkedList (medium)",
+        "title": "Rearrange a LinkedList (medium)",
         "links": [
           "https://leetcode.com/problems/reorder-list/"
         ]
       },
       {
-        "title": "Problem Challenge 3: Cycle in a Circular Array (hard)",
+        "title": "Cycle in a Circular Array (hard)",
         "links": [
           "https://leetcode.com/problems/circular-array-loop/"
         ]
@@ -190,19 +190,19 @@ export const categories = [
         ]
       },
       {
-        "title": "Problem Challenge 1: Permutation in a String (hard)",
+        "title": "Permutation in a String (hard)",
         "links": [
           "https://leetcode.com/problems/permutation-in-string/"
         ]
       },
       {
-        "title": "Problem Challenge 2: String Anagrams (hard)",
+        "title": "String Anagrams (hard)",
         "links": [
           "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
         ]
       },
       {
-        "title": "Problem Challenge 4: Words Concatenation (hard)",
+        "title": "Words Concatenation (hard)",
         "links": [
           "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
         ]
@@ -278,13 +278,13 @@ export const categories = [
         ]
       },
       {
-        "title": "Problem challenge: Shortest Subarray With Sum at Least K (HARD)",
+        "title": "Shortest Subarray With Sum at Least K (HARD)",
         "links": [
           "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/"
         ]
       },
       {
-        "title": "Problem challenge: Count Range Sum (hard)",
+        "title": "Count Range Sum (hard)",
         "links": [
           "https://leetcode.com/problems/count-of-range-sum/description/"
         ]
@@ -319,19 +319,19 @@ export const categories = [
         ]
       },
       {
-        "title": "Problem Challenge 1: Minimum Meeting Rooms (hard)",
+        "title": "Minimum Meeting Rooms (hard)",
         "links": [
           "https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1"
         ]
       },
       {
-        "title": "Problem Challenge 2: Maximum CPU Load (hard)",
+        "title": "Maximum CPU Load (hard)",
         "links": [
           "https://www.geeksforgeeks.org/maximum-cpu-load-from-the-given-list-of-jobs/"
         ]
       },
       {
-        "title": "Problem Challenge 3: Employee Free Time (hard)",
+        "title": "Employee Free Time (hard)",
         "links": [
           "https://www.codertrain.co/employee-free-time"
         ]
@@ -366,13 +366,13 @@ export const categories = [
         ]
       },
       {
-        "title": "Problem Challenge 1: Reverse nodes in EVEN Length Groups (HARD)",
+        "title": "Reverse nodes in EVEN Length Groups (HARD)",
         "links": [
           "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/"
         ]
       },
       {
-        "title": "Problem Challenge 2: Rotate a LinkedList (medium)",
+        "title": "Rotate a LinkedList (medium)",
         "links": [
           "https://leetcode.com/problems/rotate-list/"
         ]
@@ -1105,75 +1105,75 @@ export const categories = [
         "links": []
       },
       {
-        "title": "Episode-02: Fibonacci",
+        "title": "Fibonacci",
         "links": [
           "https://leetcode.com/problems/fibonacci-number/description/"
         ]
       },
       {
-        "title": "Episode 03: Climbing Stairs",
+        "title": "Climbing Stairs",
         "links": [
           "https://leetcode.com/problems/climbing-stairs/description/"
         ]
       },
       {
-        "title": "Episode 04: House Robber",
+        "title": "House Robber",
         "links": [
           "https://leetcode.com/problems/house-robber/"
         ]
       },
       {
-        "title": "Episode 05: 0/1 Knapsack",
+        "title": "0/1 Knapsack",
         "links": [
           "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
         ]
       },
       {
-        "title": "Episode 06: tabulation Intro",
+        "title": "tabulation Intro",
         "links": []
       },
       {
-        "title": "Episode 07: 0/1 Knapsack Tabulation",
+        "title": "0/1 Knapsack Tabulation",
         "links": [
           "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
         ]
       },
       {
-        "title": "Episode 08: Subset sum",
+        "title": "Subset sum",
         "links": [
           "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1"
         ]
       },
       {
-        "title": "Episode 09 : Target Sum",
+        "title": "Target Sum",
         "links": [
           "https://www.geeksforgeeks.org/problems/target-sum-1626326450/1"
         ]
       },
       {
-        "title": "Episode 10 : LIS",
+        "title": "LIS",
         "links": [
           "https://leetcode.com/problems/longest-increasing-subsequence/"
         ]
       },
       {
-        "title": "Episode 11 : LIS Tabulation",
+        "title": "LIS Tabulation",
         "links": []
       },
       {
-        "title": "Episode 12 : LCS",
+        "title": "LCS",
         "links": [
           "https://leetcode.com/problems/longest-common-subsequence/description/"
         ]
       },
       {
-        "title": "Episode 13 : Unique Paths",
+        "title": "Unique Paths",
         "links": [
           "https://leetcode.com/problems/unique-paths/description/"
         ]
       },
       {
-        "title": "Episode 14: Buy Sell Stocks",
+        "title": "Buy Sell Stocks",
         "links": [
           "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/"
         ]
@@ -1197,13 +1197,13 @@ export const categories = [
         ]
       },
       {
-        "title": "Episode 15: MIn cost to cut stick",
+        "title": "MIn cost to cut stick",
         "links": [
           "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
         ]
       },
       {
-        "title": "Episode 16: Revision",
+        "title": "Revision",
         "links": []
       }
     ]
