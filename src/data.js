@@ -75,6 +75,20 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/"
         ]
+      },
+      {
+        "title": "Trapping Rain Water",
+        "links": [
+          "https://leetcode.com/problems/trapping-rain-water/",
+          "https://www.geeksforgeeks.org/trapping-rain-water/"
+        ]
+      },
+      {
+        "title": "Container With Most Water",
+        "links": [
+          "https://leetcode.com/problems/container-with-most-water/",
+          "https://www.geeksforgeeks.org/container-with-most-water/"
+        ]
       }
     ]
   },
@@ -127,6 +141,13 @@ export const categories = [
         "title": "Cycle in a Circular Array (hard)",
         "links": [
           "https://leetcode.com/problems/circular-array-loop/"
+        ]
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "links": [
+          "https://leetcode.com/problems/merge-two-sorted-lists/",
+          "https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/"
         ]
       }
     ]
@@ -455,6 +476,13 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/ransom-note/"
         ]
+      },
+      {
+        "title": "LRU Cache",
+        "links": [
+          "https://leetcode.com/problems/lru-cache/",
+          "https://www.geeksforgeeks.org/lru-cache-implementation/"
+        ]
       }
     ]
   },
@@ -519,6 +547,13 @@ export const categories = [
         "title": "Pallindrome partition",
         "links": [
           "https://leetcode.com/problems/palindrome-partitioning/description/"
+        ]
+      },
+      {
+        "title": "Combination Sum II",
+        "links": [
+          "https://leetcode.com/problems/combination-sum-ii/",
+          "https://www.geeksforgeeks.org/combinational-sum/"
         ]
       }
     ]
@@ -1054,6 +1089,13 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/surrounded-regions/"
         ]
+      },
+      {
+        "title": "Clone Graph",
+        "links": [
+          "https://leetcode.com/problems/clone-graph/",
+          "https://www.geeksforgeeks.org/clone-an-undirected-graph/"
+        ]
       }
     ]
   },
@@ -1076,6 +1118,13 @@ export const categories = [
         "title": "Topological sort",
         "links": [
           "https://www.geeksforgeeks.org/problems/topological-sort/1"
+        ]
+      },
+      {
+        "title": "Alien Dictionary",
+        "links": [
+          "https://leetcode.com/problems/alien-dictionary/",
+          "https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/"
         ]
       }
     ]
@@ -1188,6 +1237,20 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/"
         ]
+      },
+      {
+        "title": "Coin Change",
+        "links": [
+          "https://leetcode.com/problems/coin-change/",
+          "https://www.geeksforgeeks.org/coin-change-dp-7/"
+        ]
+      },
+      {
+        "title": "Word Break",
+        "links": [
+          "https://leetcode.com/problems/word-break/",
+          "https://www.geeksforgeeks.org/word-break-problem-dp-32/"
+        ]
       }
     ]
   },
@@ -1234,6 +1297,20 @@ export const categories = [
         "links": [
           "https://leetcode.com/problems/longest-common-subsequence/description/"
         ]
+      },
+      {
+        "title": "Edit Distance",
+        "links": [
+          "https://leetcode.com/problems/edit-distance/",
+          "https://www.geeksforgeeks.org/edit-distance-dp-5/"
+        ]
+      },
+      {
+        "title": "Longest Palindromic Subsequence",
+        "links": [
+          "https://leetcode.com/problems/longest-palindromic-subsequence/",
+          "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/"
+        ]
       }
     ]
   },
@@ -1250,6 +1327,12 @@ export const categories = [
         "title": "MIn cost to cut stick",
         "links": [
           "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
+        ]
+      },
+      {
+        "title": "Matrix Chain Multiplication",
+        "links": [
+          "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
         ]
       }
     ]

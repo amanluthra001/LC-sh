@@ -1,0 +1,185 @@
+pair with target sum (easy)
+rearrange 0 and 1
+remove duplicates (easy)
+squaring a sorted array (easy)
+triplet sum to zero (medium)
+triplet sum close to target (medium)
+triplets with smaller sum (medium)
+subarrays with product less than a target (medium)
+dutch national flag problem (medium)
+quadruple sum to target (medium)
+comparing strings containing backspaces (medium)
+minimum window sort (medium)
+linkedlist cycle (easy)
+start of linkedlist cycle (medium)
+happy number (medium)
+find duplicate number
+middle of the linkedlist (easy)
+palindrome linkedlist (medium)
+rearrange a linkedlist (medium)
+cycle in a circular array (hard)
+maximum sum subarray of size k (easy)
+smallest subarray with a given sum (easy)
+longest substring with k distinct characters (medium)
+fruits into baskets (medium)
+no-repeat substring (hard)
+longest substring with same letters after replacement (hard)
+longest subarray with ones after replacement (hard)
+minimum size subarray sum
+minimum size substring (hard)
+permutation in a string (hard)
+string anagrams (hard)
+words concatenation (hard)
+maximum subarray sum
+minimum subarray sum
+maximum product subarray
+maximum subarray sum with one deletion
+maximum absolute sum of any subarray
+maximum sum in circular array variant
+subarray sum equals k (easy)
+find pivot index (easy)
+subarray sums divisible by k (med)
+contiguous array (med)
+shortest subarray with sum at least k (hard)
+count range sum (hard)
+merge intervals (medium)
+insert interval (medium)
+intervals intersection (medium)
+overlapping intervals
+minimum meeting rooms (hard)
+maximum cpu load (hard)
+employee free time (hard)
+reverse a linkedlist (easy)
+reverse a sub-list (medium)
+reverse list in pairs (medium)
+reverse every k-element sub-list (hard)
+reverse nodes in even length groups (hard)
+rotate a linkedlist (medium)
+remove adjacent duplicates
+balanced parentheses
+next greater element (easy)
+daily temperatures (easy)
+remove nodes from linked list (easy)
+remove all adjacent duplicates in string ii (medium)
+simplify path (problem challenge)
+remove k digits (hard) problem challenge
+first non-repeating character (easy)
+maximum number of balloons (easy)
+longest palindrome(easy)
+ransom note (easy)
+fibonnaci
+check if string is pallindrome
+check if array is sorted
+sum of digits of a number
+remove occurences of a character in string
+generate parenthesis
+letter combinations of phone number
+permutations
+combination sum
+pallindrome partition
+binary search basic
+upper bound/ ceiling
+first and last position
+count number of occurences
+search in infinite sorted array
+peak index in mountain
+find peak in mountain range
+find minimum in rotated sorted array
+find number of rotations to sorted array
+search in rotated sorted array
+median of 2 sorted arrays
+koko eating bananas
+min num of days to make m bouquets
+aggresive cows
+h index 2
+max candies to k children
+capacity to ship packages in d days
+book allocation problem
+split largest arrray
+search 2 d matrix
+search 2d matrix (hard)
+kth smallest in sorted matrix
+kth smallest in multiplication matrix
+kth - kth smallest
+kth largest
+top k frequent elements
+top k frequent words
+k closest - k closest points to origin
+find k closest elements
+kth weakest row in matrix
+heap as pointer - merge k sorted arrays
+kth smallest in sorted matrix
+course scheduler 3
+2 heaps - find median in data stream
+sliding window median (hard)
+greedy+heap - last stone weight
+cpu task scheduler
+reorganize string
+min number of refueling stops
+ipo
+traversal - inorder
+preorder
+postorder - homework
+level order
+zigzag order
+level order ii - homework
+construction - contruct tree from preorder and inorder
+contruct tree from postorder and inorder
+same tree - homework
+subtree of another tree
+binary search tree
+two sum iv
+kth smallest element in bst
+validation - minimum depth of binary tree
+maximum depth of binary tree
+balanced binary tree
+diameter of binary tree
+check completeness of binary tree
+validate bst
+recover bst
+search - lca of binary tree
+lca of bst
+lca of deepest leaves
+path sum - path sum
+path sum ii
+sum of root to leaf
+maximum path sum
+mirror and symmetry - invert tree
+symmetric tree
+flip equivalent tree
+sorted array to bst
+construct adjancency list from edges+nodes
+graph dfs
+graph bfs
+number of islands
+number of provinces
+rotten oranges
+bipartite graph/ graph coloring
+surrounded regoins
+cycle detection in undirected graph
+cycle detection in directed graph
+topological sort
+shortest path in non-weighted graph
+dijkstra's algorithm
+network delay
+path with minimum effort
+swim in rising water
+bellman ford
+cheapest path in k stops
+word ladder
+prim mst
+fibonacci
+climbing stairs
+house robber
+buy sell stocks
+best time to buy and sell stock ii
+best time to buy and sell stock iii
+best time to buy and sell stock iv
+0/1 knapsack
+0/1 knapsack tabulation
+subset sum
+target sum
+lis
+lcs
+unique paths
+min cost to cut stick
